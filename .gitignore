@@ -1,0 +1,9 @@
+
+.sconsign.dblite
+*.obj
+*.exe
+*.o
+bin/
+imgui.ini
+sh.exe.stackdump
+*.pyc
