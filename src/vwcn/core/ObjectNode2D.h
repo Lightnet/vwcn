@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-namespace vwen{
+namespace vwcn{
 //header guard at start of header file
 #ifndef OBJECTNODE2D_H
 #define OBJECTNODE2D_H

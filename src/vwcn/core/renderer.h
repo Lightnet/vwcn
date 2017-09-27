@@ -20,7 +20,7 @@
 
 using namespace std;
 
-namespace vwen{
+namespace vwcn{
 
     //std::shared_ptr<ObjectNode> nodes;
     //std::vector<ObjectNode> nodes;

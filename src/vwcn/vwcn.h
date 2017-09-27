@@ -20,13 +20,11 @@ Notes:
 
 using namespace std;
 
-namespace vwen{
+namespace vwcn{
     //string version = "0.0.1";
 
     GLuint VBO = 0; // vertex buffer object
 
-    
-    
     void func();
     void GetTree();
     void GetMainCamera();

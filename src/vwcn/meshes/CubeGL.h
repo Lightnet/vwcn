@@ -7,7 +7,7 @@
 
 using namespace std;
 
-namespace vwen{
+namespace vwcn{
 //header guard at start of header file
 #ifndef POLYCONGL_H
 #define POLYCONGL_H

@@ -5,7 +5,7 @@
 //#include <iostream>
 //using namespace std;
 
-namespace Vwen{
+namespace vwcn{
     
     class Vector3 {
         double x,y,z;

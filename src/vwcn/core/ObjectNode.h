@@ -6,7 +6,7 @@
 #include <string>
 using namespace std;
 
-namespace vwen{
+namespace vwcn{
 //header guard at start of header file
 #ifndef OBJECTNODE_H
 #define OBJECTNODE_H

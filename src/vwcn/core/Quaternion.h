@@ -3,7 +3,7 @@
 //#include <iostream>
 //using namespace std;
 
-namespace Vwen{
+namespace vwcn{
     
     class Quaternion {
         double x,y,z,w;
