@@ -14,7 +14,7 @@ SDL2_LIB_PATH = ''
 #--------
 VS_TOOL_BAT = 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\Build\\vcvars32.bat' #window
 
-projectname = 'project_vwen'				#holds the project name
+projectname = 'vwcn'				#holds the project name
 projectpackage = 'main'						#holds the project folder
 SRC_PATH = 'src'
 builddir = SRC_PATH                         #holds the build directory for this project
@@ -22,7 +22,7 @@ builddir = SRC_PATH                         #holds the build directory for this 
 
 source_base_dir = '.'
 build_base_dir = 'build'
-target_name = 'project_vwen'
+target_name = 'vwcn'
 
 #thirdparty_libs = []
 #thirdparty_includes = []

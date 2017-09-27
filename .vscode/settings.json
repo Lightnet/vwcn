@@ -76,5 +76,5 @@
     },
     "development_mode":"release",       //development build mode
     "output_dir":"bin",                 //out put bin builds
-    "output_program":"project_vwen"     //default without the application execute without ext file
+    "output_program":"vwcn"     //default without the application execute without ext file
 }

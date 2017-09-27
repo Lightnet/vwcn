@@ -1,5 +1,5 @@
 /*
-	Project: VWEN
+	Project: vwcn
 	Information: SDL2 and ImGui
 */
 //#include <glm/vec3.hpp> // glm::vec3
@@ -9,13 +9,13 @@
 
 //#include <pybind11/embed.h>
 
-//#include "vwen/glfw_glad_imgui.h"
-//#include <vwen/glfw_glad_cube.h>
-//#include "vwen/sdl2_glad.h"
-//#include "vwen/sdl2_glad_imgui.h"
-//#include "vwen/sdl2_launcher.h"
+//#include "vwcn/glfw_glad_imgui.h"
+//#include <vwcn/glfw_glad_cube.h>
+//#include "vwcn/sdl2_glad.h"
+//#include "vwcn/sdl2_glad_imgui.h"
+//#include "vwcn/sdl2_launcher.h"
 
-#include "vwen/sdl2_app.h"
+#include "vwcn/sdl2_app.h"
 
 #include <stdio.h>
 #include <string>
