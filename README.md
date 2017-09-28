@@ -2,6 +2,10 @@
 
 Project Name: vwcn
 
+virtual world cloud node
+
+Information: Just early stage idea. To design virual node system where files can't not be edit in the like binary data but in virual file manage to be in 3D space. 3D Space data format is something that VRMMO type of game build style. Or something like preload game state when all files are compile without need to load each files assets. All script files are run and can not be stop. It some thing to like sub routine programs.
+
 Created by: Lightnet
 
 License: MIT
